@@ -29,14 +29,14 @@ const Footer = () => {
                     <div>
                         <h2 className="font-semibold mb-5">Get in touch</h2>
                         <div className="text-sm space-y-2">
-                            <p>+91 9876543210</p>
-                            <p>nitinjangid@example.com</p>
+                            <p>+91 7888321184</p>
+                            <p>sdivanshu558@gmail.com</p>
                         </div>
                     </div>
                 </div>
             </div>
             <p className="pt-4 text-center text-sm pb-5">
-                Copyright {new Date().getFullYear()} © Nitin Jangid. All Right Reserved.
+                Copyright {new Date().getFullYear()} © Divanshu Sharma. All Right Reserved.
             </p>
         </footer>
   )

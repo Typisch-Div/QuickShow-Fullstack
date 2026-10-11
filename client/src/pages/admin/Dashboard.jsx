@@ -50,7 +50,7 @@ const Dashboard = () => {
 
   return !loading ? (
     <>
-      <Title text1="Nitin Jangid" text2="Dashboard"/>
+      <Title text1="Divanshu Sharma" text2="Dashboard"/>
 
       <div className="relative flex flex-wrap gap-4 mt-6">
                 <BlurCircle top="-100px" left="0" />
